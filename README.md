@@ -1,2 +1,2 @@
 # genetic-algorithm-demo
-A simple genetic algorithm demo writen by C++
+A simple genetic algorithm demo written by C++
